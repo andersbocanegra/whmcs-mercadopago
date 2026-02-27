@@ -187,4 +187,4 @@ Si tienes dudas o encuentras un bug:
 - Abre un [Issue en GitHub](https://github.com/medioseideas/whmcs-mercadopago-pe/issues)
 - Revisa los logs de la pasarela en WHMCS antes de reportar
 
-Desarrollado con ❤️ por **[MEDIOSeIDEAS.COM S.A.C.](https://medioseideas.com)** — Lima, Perú.
+Desarrollado con ❤️ por ** Anders Bocanegra [MEDIOSeIDEAS.COM S.A.C.](https://medioseideas.com)** — Chiclayo, Perú.
